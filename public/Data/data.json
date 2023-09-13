@@ -1,0 +1,33 @@
+{
+    "products": [
+      {
+        "name": "computer",
+        "price": "130",
+        "category": "computers",
+        "description": "computer, laptops, desktop",
+        "image": "https://freepngimg.com/convert-png/51784-desktop-computer-hq-image-free-png"
+      },
+      {
+        "name": "sweater",
+        "price": "1",
+        "category": "Clothing",
+        "description": "fashion, clothes , sweater, wool, cardigan,...",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Christmas_Sweater.jpg"
+      },
+      {
+        "name": "tie",
+        "price": "46",
+        "category": "Clothing",
+        "description": "fashion, tie, clothes, accessory , accessoire,...",
+        "image": "https://www.princeoliver.com/wp-content/uploads/2022/05/17.110.333.01.jpg"
+      },
+      {
+        "name": "jacket",
+        "price": "190",
+        "category": "Clothing",
+        "description": "winter jacket ",
+        "image": "https://images.squarespace-cdn.com/content/v1/55d729cfe4b00ab3960e7989/1630095614208-O2GG14IBGM6LG692DP2D/pat.jpeg"
+      }
+    ]
+  }
+  

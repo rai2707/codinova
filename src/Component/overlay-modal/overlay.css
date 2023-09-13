@@ -1,0 +1,21 @@
+/* .overlay{
+    background-color: rgba(0, 0, 0, 0.534);
+    height: 96vh;
+    width: 93vw;
+    position: absolute;
+    top: 0;
+    right: 0;
+    overflow-x: hidden;
+    z-index: 10;
+} */
+
+.overlay{
+    background-color: rgba(0, 0, 0, 0.534);
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    z-index: 10;
+}
